@@ -1,0 +1,20 @@
+   *{
+     margin:0;
+     padding:0;
+     box-size:border-base;
+    }
+  
+  
+  #para{color:green;}
+  
+  u,s{color:blue}
+  
+  div ins{font-size:30px;
+  background-color:brown;}
+  
+  div>i {backgroung-color:pink;}
+  
+  div+em{font-size:50px;}
+  div~mark{font-family:onyx;
+  font-size:30px;}
+
